@@ -9,5 +9,6 @@ Seth Lienemann's Microcontroller Design project
 - Hardware Level
   - Pin operations
   - SPI
+  - Display
   - Memory operations
 - Application Level
